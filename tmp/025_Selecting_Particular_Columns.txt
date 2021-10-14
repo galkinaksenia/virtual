@@ -1,0 +1,18 @@
++-----------+-------------+--------------+----------------+
+| g03u24_id | g03u24_name | g03u24_owner | g03u24_species |
++-----------+-------------+--------------+----------------+
+|         1 | Fluffy      | Harold       | cat            |
+|         2 | Claws       | Gwen         | cat            |
+|         3 | Buffy       | Harold       | dog            |
+|         4 | Fang        | Benny        | dog            |
+|         5 | Bowser      | Diane        | dog            |
+|         6 | Chirpy      | Gwen         | bird           |
+|         7 | Whistler    | Gwen         | bird           |
+|         8 | Slim        | Benny        | snake          |
+|         9 | Chirpy      | Gwen         | bird           |
+|        10 | Whistler    | Gwen         | bird           |
+|        11 | Slim        | Benny        | snake          |
+|        12 | Luna        | Usagi        | cat            |
+|        13 | Artemis     | Minako       | cat            |
+|        14 | Kiko        | Blum         | rabbit         |
++-----------+-------------+--------------+----------------+

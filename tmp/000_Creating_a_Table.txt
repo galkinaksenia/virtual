@@ -1,0 +1,12 @@
++----------------+-------------+------+-----+---------+----------------+
+| Field          | Type        | Null | Key | Default | Extra          |
++----------------+-------------+------+-----+---------+----------------+
+| g03u24_id      | int         | NO   | PRI | NULL    | auto_increment |
+| g03u24_name    | varchar(20) | YES  |     | NULL    |                |
+| g03u24_owner   | varchar(20) | YES  |     | NULL    |                |
+| g03u24_species | varchar(20) | YES  |     | NULL    |                |
+| g03u24_color   | varchar(20) | YES  |     | white   |                |
+| g03u24_sex     | char(1)     | YES  |     | NULL    |                |
+| g03u24_birth   | date        | YES  |     | NULL    |                |
+| g03u24_death   | date        | YES  |     | NULL    |                |
++----------------+-------------+------+-----+---------+----------------+

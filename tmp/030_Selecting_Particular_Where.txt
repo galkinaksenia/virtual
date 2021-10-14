@@ -1,0 +1,25 @@
++-----------+-------------+----------------+--------------+
+| g03u24_id | g03u24_name | g03u24_species | g03u24_death |
++-----------+-------------+----------------+--------------+
+|         1 | Fluffy      | cat            | NULL         |
+|         2 | Claws       | cat            | NULL         |
+|         3 | Buffy       | dog            | NULL         |
+|         4 | Fang        | dog            | NULL         |
+|         6 | Chirpy      | bird           | NULL         |
+|         7 | Whistler    | bird           | NULL         |
+|         8 | Slim        | snake          | NULL         |
+|         9 | Chirpy      | bird           | NULL         |
+|        10 | Whistler    | bird           | NULL         |
+|        11 | Slim        | snake          | NULL         |
+|        12 | Luna        | cat            | NULL         |
+|        13 | Artemis     | cat            | NULL         |
+|        14 | Kiko        | rabbit         | NULL         |
++-----------+-------------+----------------+--------------+
++-----------+-------------+--------------+----------------+
+| g03u24_id | g03u24_name | g03u24_owner | g03u24_species |
++-----------+-------------+--------------+----------------+
+|         1 | Fluffy      | Harold       | cat            |
+|         2 | Claws       | Gwen         | cat            |
+|        12 | Luna        | Usagi        | cat            |
+|        13 | Artemis     | Minako       | cat            |
++-----------+-------------+--------------+----------------+
